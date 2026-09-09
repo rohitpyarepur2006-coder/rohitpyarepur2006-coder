@@ -1,16 +1,33 @@
 ## Hi there 👋
+# Hi there! 我是何锦宏 👋
 
-<!--
-**rohitpyarepur2006-coder/rohitpyarepur2006-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的 GitHub 主页！我是一名**计算机科学与技术**专业的本科生，对探索前沿技术充满热情。
 
-Here are some ideas to get you started:
+## 🌟 关于我 (About Me)
+- 🎓 我目前正在深入学习计算机专业课程，主攻技术方向包括**深度学习**与**计算机视觉**。
+- 💡 **兴趣爱好**：
+  - 🎵 **音乐与追番**：课余时间喜欢听音乐，喜欢听周杰伦、孙燕姿、李荣浩和林俊杰的歌；闲暇时间也喜欢看番放松。
+  - 🎮 **游戏与竞技赛事**：热爱打游戏，并且是各类比赛的狂热观众。
+  - 🏃‍♂️ **运动健身**：在计算机专业学习之余，我也喜欢通过运动出汗来保持健康和充沛的精力。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 技术栈与专业实践 (Skills & Practice)
+在专业实践中，我不断将理论知识转化为实际的工程能力，目前已完成的自我评估如下：
+
+- **已掌握的核心技能**：
+  - 能够使用 **Python** 进行开发，并使用 **PyTorch** 框架进行模型构建与调试。
+  - 具备一定的远程服务器运维与环境配置能力，会使用 SSH/MobaXterm 在 Linux 环境下管理 Conda 虚拟环境、CUDA 依赖及代码部署。
+- **专业实践经历**：
+  - 深入研究并复现了多个经典与前沿的深度学习模型架构（如 UNet、Swin Transformer）。
+  - 在**伪装目标检测（Camouflaged Object Detection）**领域有一定的实践经验，曾在服务器上成功部署并调试过 OVCoser、BGNet 等开放词汇（Open-vocabulary）视觉模型。
+  - 具备独立研读 CVPR/ECCV 等顶会学术论文的能力，能够结合数学原理（如 SVD 矩阵分解、交叉注意力机制）深度剖析模型源码。
+- **最希望学习的知识**：
+  - 未来希望能进一步深化在大视觉语言模型（Vision-Language Models）领域的理论储备，并提升大型 AI 项目的工程化落地与全栈交互能力。
+
+## 🚀 未来三年发展规划 (Future Plan)
+
+  未来三年的核心规划是全力备战考研。由于我在本科阶段对深度学习与计算机视觉产生了浓厚的兴趣，我希望能够进入更高水平的院校进行深造。我的目标是加入优秀的 AI 实验室，在开放词汇图像分割等垂直领域产出有价值的学术成果，为未来的科研或高端算法岗位打下坚实基础。
+
+
+---
+📫 **如何联系我**：2432417639@qq.com
+
